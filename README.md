@@ -10,3 +10,5 @@ I created this APP for myself to use because I am LAZY and I do not wish to walk
 ![](docs/lazgyGo1.jpg)
 ![](docs/lazgyGo2.jpg)
 ![](docs/lazgyGo3.jpg)
+
+Maybe I'll upload a video soon. 

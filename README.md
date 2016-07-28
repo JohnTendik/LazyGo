@@ -12,3 +12,19 @@ I created this APP for myself to use because I am LAZY and I do not wish to walk
 ![](docs/lazgyGo3.jpg)
 
 Maybe I'll upload a video soon. 
+
+
+# Update v2
+### New features include 
+- Auto walk in circle to hatch eggs
+- joystick instead of 4 buttons
+- autmatic location finding
+- teleport to whatever location you want
+- POKEMON API integration!!!! find pokemon near you and display them on the map
+
+### Planned features
+- Auto walk to nearest gym
+- auto walk to nearest pokemon
+- auto walk to set location
+- auto pokeball throw
+- design overlay
